@@ -1,4 +1,4 @@
-<a href="http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion"><img src="/screenshots/see.webp" alt="Abacus Shop" style="max-width: 100%;"></a>
+<a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/frames/settings.webp" alt="Abacus Shop" style="max-width: 100%;"></a>
 
 # Abacus Shop: Your Premier Destination for Secure Darknet Shopping
 
@@ -22,9 +22,9 @@ The **Abacus Shop login** is a straightforward process, yet crucial for maintain
     - Always utilize the official **Abacus Shop onion link** or a verified mirror link to prevent exposure to phishing scams.
     - Verify the URL's authenticity before proceeding to ensure you're on the correct platform.
 
-**Official Onion Link:** [http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion](http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion)
+**Official Onion Link:** [http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion](http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion)
 
-[<img src="/screenshots/back.webp" width="200">](http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion)
+[<img src="/frames/solid.webp" width="200">](http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion)
 
 ### 2. **Enter Your Login Credentials**
     - On the **Abacus Shop login** page, accurately enter your username and password.
@@ -72,5 +72,5 @@ Prioritize security when accessing darknet platforms. Always use verified **Abac
 
 **Disclaimer:** This content is provided for educational purposes only. We do not condone or encourage any illegal activities. Always comply with the applicable laws and regulations in your jurisdiction.
 
-<a href="http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion"><img src="/screenshots/header.webp" alt="Abacus Shop Login" style="max-width: 100%;"></a>
-<a href="http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion"><img src="/screenshots/display.webp" alt="Abacus Shop Register" style="max-width: 100%;"></a>
+<a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/frames/preview.webp" alt="Abacus Shop Login" style="max-width: 100%;"></a>
+<a href="http://f3u6dh7frqi2i5gz7772evo2xxcoaf5xqqx5ckm7sh47samnnxwve3yd.onion"><img src="/frames/element.webp" alt="Abacus Shop Register" style="max-width: 100%;"></a>
